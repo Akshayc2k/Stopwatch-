@@ -1,0 +1,47 @@
+body{
+  background-color: #D6E4E5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container{
+  color: #497174;
+}
+
+.digit{
+  font-size: 150px;
+  font-weight: bold;
+}
+
+.txt{
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.btn-container{
+  text-align: center;
+  margin-top: 40px;
+}
+
+.btn{
+  padding: 7px 25px;
+  font-size: 15px;
+  margin: 0 10px;
+  color: #fff;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#start{
+  background-color: #54B435;
+}
+
+#stop{
+  background-color: #5837D0;
+}
+
+#reset{
+  background-color: #E0144C;
+}
